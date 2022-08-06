@@ -94,7 +94,7 @@ paths:
                 name: cirrios
                 cpulist: "1"
                 memory: 1024
-                disk: "/home/jlee/work2/vm/cirros-0.5.2-x86_64-disk2.img"
+                disk: "/vm/cirros-0.5.2-x86_64-disk2.img"
                 network: [{"source":"default","mac":"00:11:22:33:44:55"}]
                 
       responses:
