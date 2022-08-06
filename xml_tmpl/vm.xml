@@ -10,7 +10,7 @@
   <devices>
     <disk type='file' device='disk'>
       <driver name='qemu'/>
-      <source file='/home/jlee/www/vm/SBCSWeEdge-disk.11.2.qcow2'/>
+      <source file='/vm/cirros.img'/>
       <backingStore/>
       <target dev='vda' bus='virtio'/>
     </disk>
